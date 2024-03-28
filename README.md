@@ -1,6 +1,6 @@
 # Edik
 
-general content of "black watches".
+General content of "black watches".
 *Home
 *Contacts
 *Sign up 
